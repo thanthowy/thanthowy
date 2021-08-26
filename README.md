@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thanthowy
-- 👀 I’m interested in data visualization and visual map
+- 👀 I’m interested in data visualization and map visualization
 - 🌱 I’m currently learning basic programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
